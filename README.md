@@ -9,6 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaosimoes453&label=Profile%20views&color=0e75b6&style=flat" alt="joaosimoes453" /> </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosimoes453&layout=compact&langs_count=8&title_color=8B949E&text_color=FFFFFF&bg_color=0D1117" alt="joaosimoes453" /> </p>
 
 
 <!--
