@@ -5,11 +5,11 @@
 - 👨🏻‍💻Learning Python and SQL
 - 📫 simoes453joao@gmail.com
 - ⚡ You can call me Pamella
+- 👉 <a href='https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es453/' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaosimoes453&label=Profile%20views&color=0e75b6&style=flat" alt="joaosimoes453" /> </p>
 
-<p align="center"> <a href='https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es453/' target="_blank"><img alt='Joao Simoes Linkedin' width = '40' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a> </p>
 
 <!--
 **joaosimoes453/joaosimoes453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
