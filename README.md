@@ -6,7 +6,6 @@
 - 📫 simoes453joao@gmail.com
 - ⚡ You can call me Pamella
 
-[![Linkedin Badge](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BHsrzJ8DMSEKesfXqqt5yyw%3D%3D)](https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es453/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaosimoes453&label=Profile%20views&color=0e75b6&style=flat" alt="joaosimoes453" /> </p>
 
