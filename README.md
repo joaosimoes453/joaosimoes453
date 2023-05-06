@@ -2,7 +2,7 @@
 - 🧔🏽My name is João Luís Simões
 - 📍From Portugal, Lisbon
 - 🌱 I’m currently at Data Analytics Bootcamp on Ironhack Lisbon
-- 👨🏻‍💻Learning Python and SQL
+- 👨🏻‍💻Learning Python, SQL and Tableau
 - 📫 simoes453joao@gmail.com
 - ⚡ You can call me Pamella
 - 👉 <a href='https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es453/' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
