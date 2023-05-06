@@ -6,7 +6,7 @@
 - 📫 simoes453joao@gmail.com
 - ⚡ You can call me Pamella
 - 👉 <a href='https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es453/' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
-- - 👉 <a href='https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es453/' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://avatars.githubusercontent.com/u/828667?s=200&v=4)"></a>
+- - 👉 <a href='https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es453/' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"></a>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaosimoes453&label=Profile%20views&color=0e75b6&style=flat" alt="joaosimoes453" /> </p>
