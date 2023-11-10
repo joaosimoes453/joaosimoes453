@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🧔🏽My name is João Luís Simões
 - 📍From Portugal, Lisbon
+- 💼Power Platform Developer
 - 👨🏻‍💻Data Analyst | Python | Pandas | mySQL | Tableau | Machine Learning
 - 🌱 Alumni Data Analytics Bootcamp on Ironhack Lisbon
 - 📫 simoes453joao@gmail.com
