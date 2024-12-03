@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🧔🏽My name is João Luís Simões
 - 📍From Portugal, Lisbon
-- 💼 Head of HR & CEO Office @[Unlockit.io](https://unlockit.io)
+- 💼 Head of HR & CEO Office @[Unlockit](https://unlockit.io)
 - 👨🏻‍💻Data Analytics | Python | Pandas | mySQL | Tableau | Machine Learning
 - 🌱 Alumni Data Analytics Bootcamp on Ironhack Lisbon
 - 📫 simoes453joao@gmail.com
