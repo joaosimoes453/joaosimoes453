@@ -6,7 +6,7 @@
 - 🌱 Alumni Data Analytics Bootcamp on Ironhack Lisbon
 - 📫 simoes453joao@gmail.com
 - ⚡ You can call me Pamella
-- 👉 <a href='[https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es453/](https://www.linkedin.com/in/joaolfssimoes/)' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+- 👉 <a href='https://www.linkedin.com/in/joaolfssimoes/' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
 - 👉 <a href='https://public.tableau.com/app/profile/joao.simoes7177' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"></a>
 
 
