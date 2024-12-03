@@ -3,7 +3,7 @@
 - 📍From Portugal, Lisbon
 - 💼 Head of HR & CEO Office @[Unlockit](https://unlockit.io)
 - 👨‍🏫 Python Programming Trainer @[Smarter Execution](https://smarterexecution.pt/)
-- 👨🏻‍💻Data Analytics | Python | Pandas | mySQL | Tableau | Machine Learning
+- 📈 Data Analytics | Python | Pandas | mySQL | Tableau | Machine Learning
 - 🌱 Alumni Data Analytics Bootcamp on Ironhack Lisbon
 - 📫 simoes453joao@gmail.com
 - ⚡ You can call me Pamella
