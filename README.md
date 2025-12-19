@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🧔🏽My name is João Luís Simões
 - 📍From Portugal, Lisbon
-- 💼 Head of HR & CEO Office @[Unlockit](https://unlockit.io)
 - 👨‍🏫 Python Programming Trainer @[Smarter Execution](https://smarterexecution.pt/)
 - 📈 Data Analytics | Python | Pandas | mySQL | Tableau | Machine Learning
 - 🌱 Alumni Data Analytics Bootcamp on Ironhack Lisbon
