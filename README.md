@@ -3,7 +3,7 @@
 - 📍From Portugal, Lisbon
 - 👨‍🏫 Python Programming Trainer @ [Smarter Execution](https://smarterexecution.pt/)
 - 📈 Data Analytics | Python | Pandas | mySQL | Tableau | Machine Learning
-- 🌱 Alumni Data Analytics Bootcamp on Ironhack Lisbon
+- 🌱 Alumni Data Analytics Bootcamp on [Ironhack Lisbon](https://www.ironhack.com/pt-en/lisbon)
 - 📫 simoes453joao@gmail.com
 - ⚡ You can call me Pamella
 - 👉 <a href='https://www.linkedin.com/in/joaolfssimoes/' target="_blank"><img alt='Joao Simoes Linkedin' width = '15' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
